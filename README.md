@@ -19,6 +19,8 @@ PROJECT 2 - Graph Algorithm
     - the top 3 best flight paths depending on cost or time
   - the output in the outputfile only displays the top 3 best flight paths depending on cost or time for each requested flight
 
+ - This project utilizes a Depth First Search algorithm as well as an adjacency list
+
 **was not able to print error message if an impossible flight plan was requested**
 **all files must be entered into the flightPlan.java itself, it does not take parameters**
   - flight data file must be entered at line 279
