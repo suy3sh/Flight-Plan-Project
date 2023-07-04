@@ -1,0 +1,30 @@
+Flight 1: Memphis to Dallas (T)
+---------------------------------------------------
+Path: Chicago -> Austin -> Dallas
+Total Cost: 242
+Total Time: 565
+
+Path: Chicago -> Houston -> Austin -> Dallas
+Total Cost: 303
+Total Time: 566
+
+Path: Chicago -> Houston -> Dallas
+Total Cost: 482
+Total Time: 231
+
+
+Flight 2: Chicago to Dallas (C)
+---------------------------------------------------
+Path: Chicago -> Austin -> Dallas
+Total Cost: 242
+Total Time: 565
+
+Path: Chicago -> Houston -> Austin -> Dallas
+Total Cost: 303
+Total Time: 566
+
+Path: Chicago -> Houston -> Dallas
+Total Cost: 482
+Total Time: 231
+
+
